@@ -32,8 +32,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-833.vercel.app/api?username=Moathhazeem&show_icons=true&theme=dark&hide_border=true" alt="Moath's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-833.vercel.app/api/top-langs/?username=Moathhazeem&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moathhazeem&theme=dark&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
