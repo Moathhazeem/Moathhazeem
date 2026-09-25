@@ -14,7 +14,7 @@ My current focus is on building **full-stack applications, AI agents, automated 
 
 * Building responsive web applications with **React**
 * Developing REST APIs with **Node.js & Express.js**
-* Working with **MongoDB & Mongoose**
+* Working with **MongoDB**
 * Authentication and user management
 * API integration and backend development
 * Building cross-platform mobile applications with **Flutter & Dart**
@@ -70,7 +70,6 @@ My current focus is on building **full-stack applications, AI agents, automated 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
 
 ### AI & Automation
 
@@ -114,7 +113,7 @@ Full-stack mobile language-learning application.
 
 * Flutter mobile application
 * Node.js & Express REST API
-* MongoDB with Mongoose
+* MongoDB database
 * Authentication and user management
 * Backend API integration
 * Docker containerization
@@ -177,7 +176,7 @@ AI-powered content intelligence workflow for researching and evaluating content 
 Full-Stack Development
 ├── React
 ├── Node.js / Express
-├── MongoDB / Mongoose
+├── MongoDB
 └── REST APIs
 
 Mobile Development
@@ -236,7 +235,6 @@ MIS & Business Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moath-hazeem-865412390/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/moathhazeem)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge\&logo=dribbble\&logoColor=white)](https://dribbble.com/moath-hazeem)
-[![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge\&logo=vimeo\&logoColor=white)](https://vimeo.com/moathhazeem)
 
 ---
 
