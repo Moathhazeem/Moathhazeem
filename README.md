@@ -102,16 +102,29 @@ My work combines **software development, AI-powered workflows, enterprise system
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps, QA & PM
-- Git & GitHub
-- Docker & containerization
-- GitHub Actions & CI/CD
+### 🧪 Quality Assurance (QA)
 - Quality Assurance (QA) & software testing
 - API testing with **Postman** & **Bruno**
 - Code quality analysis with **SonarQube**
 - API integration & testing concepts
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ Project Management
 - Project management with **Jira**, **MS Project**, **Notion** & **GitHub Projects**
 - Agile-oriented workflow tracking
+- Task organization & progress tracking
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps
+- Git & GitHub
+- Docker & containerization
+- GitHub Actions & CI/CD
 
 </td>
 </tr>
@@ -369,6 +382,10 @@ Management Information Systems (MIS)
 | 📈 **Data Analysis & BI** | Analytical skills for business decision-making |
 | 💻 **Full-Stack Development** | Application architecture, backend development, database design |
 | 🗂️ **Project Management** | Task organization & progress tracking with Jira, MS Project, Notion & GitHub Projects |
+| 🧪 **QA & Testing** | API testing with Postman & Bruno, code quality analysis with SonarQube |
+| 🎨 **UI/UX & Design** | Figma-to-code workflows, responsive & RTL interfaces, visual design with Canva |
+| 📱 **Mobile Development** | Cross-platform apps with Flutter & Dart, and Kotlin |
+| ⚙️ **DevOps** | Docker, GitHub Actions, and CI/CD workflows |
 
 ---
 
