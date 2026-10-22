@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Moath Hazeem - MIS, Full-Stack and Mobile, AI Agents and Automation, ERP/Odoo, UI/UX">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#bfeaff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .f { opacity: 0; animation: fade 0.9s ease forwards; }
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.35s; }
+    .d3 { animation-delay: 0.6s; }
+    .d4 { animation-delay: 0.9s; }
+    .orb { animation: float 7s ease-in-out infinite; }
+    .orb2 { animation: float 9s ease-in-out infinite reverse; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+  </style>
+
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+
+  <!-- decorative orbs -->
+  <circle class="orb" cx="90" cy="60" r="70" fill="#4FC3F7" opacity="0.10"/>
+  <circle class="orb2" cx="920" cy="210" r="90" fill="#4FC3F7" opacity="0.08"/>
+  <circle class="orb" cx="840" cy="40" r="28" fill="#ffffff" opacity="0.06"/>
+
+  <!-- greeting + name -->
+  <text class="f d1" x="500" y="58" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="5" fill="#4FC3F7">HI, I'M</text>
+  <text class="f d2" x="500" y="122" text-anchor="middle" font-size="58" font-weight="800" fill="url(#name)">Moath Hazeem</text>
+
+  <!-- specialty chips -->
+  <g class="f d3" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <rect x="140" y="152" width="60" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>
+    <text x="170" y="176">MIS</text>
+
+    <rect x="214" y="152" width="188" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>
+    <text x="308" y="176">Full-Stack &amp; Mobile</text>
+
+    <rect x="416" y="152" width="212" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>
+    <text x="522" y="176">AI Agents &amp; Automation</text>
+
+    <rect x="642" y="152" width="114" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>
+    <text x="699" y="176">ERP / Odoo</text>
+
+    <rect x="770" y="152" width="89" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>
+    <text x="814.5" y="176">UI / UX</text>
+  </g>
+
+  <!-- tagline -->
+  <text class="f d4" x="500" y="238" text-anchor="middle" font-size="14" fill="#9fc3d6" letter-spacing="1">Building at the Intersection of Technology, Business, and Automation</text>
+</svg>
