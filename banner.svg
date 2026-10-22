@@ -4,7 +4,7 @@
      width="1000"
      height="340"
      role="img"
-     aria-label="Moath Hazeem - MIS, Full-Stack and Mobile, AI Automation, ERP, UI/UX, System Analysis, QA and Project Management">
+     aria-label="Moath Hazeem - MIS, Full-Stack and Mobile Development, AI Automation, ERP, UI/UX, Supabase and Databases, Business Analysis">
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -28,13 +28,8 @@
         animation: fadeIn 1s ease forwards;
       }
 
-      .name {
-        animation-delay: 0.3s;
-      }
-
-      .tagline {
-        animation-delay: 0.6s;
-      }
+      .name { animation-delay: 0.3s; }
+      .tagline { animation-delay: 0.6s; }
 
       .orb {
         animation: float 7s ease-in-out infinite;
@@ -125,19 +120,16 @@
     <rect x="70" y="132" width="250" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="195" y="157">MIS &amp; Systems Analysis</text>
+    <text x="195" y="157">MIS</text>
 
     <rect x="335" y="132" width="300" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
     <text x="485" y="157">Full-Stack &amp; Mobile Development</text>
 
     <rect x="650" y="132" width="280" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
     <text x="790" y="157">AI Agents &amp; Automation</text>
   </g>
 
@@ -151,20 +143,17 @@
     <rect x="70" y="132" width="250" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
     <text x="195" y="157">ERP / Odoo</text>
 
     <rect x="335" y="132" width="300" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
     <text x="485" y="157">UI / UX Design</text>
 
     <rect x="650" y="132" width="280" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="790" y="157">Software QA &amp; Testing</text>
+    <text x="790" y="157">Supabase &amp; Databases</text>
   </g>
 
   <!-- Group 3 -->
@@ -174,23 +163,15 @@
      fill="#ffffff"
      text-anchor="middle">
 
-    <rect x="70" y="132" width="250" height="40" rx="20"
+    <rect x="250" y="132" width="220" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
+    <text x="360" y="157">Business Analysis</text>
 
-    <text x="195" y="157">Project Management</text>
-
-    <rect x="335" y="132" width="300" height="40" rx="20"
+    <rect x="490" y="132" width="260" height="40" rx="20"
           fill="#ffffff" fill-opacity="0.08"
           stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="485" y="157">Supabase &amp; Databases</text>
-
-    <rect x="650" y="132" width="280" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="790" y="157">Business Analysis</text>
+    <text x="620" y="157">Business Intelligence</text>
   </g>
 
   <!-- Tagline -->
