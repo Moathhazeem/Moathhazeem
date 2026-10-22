@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
   <img src="banner.svg" alt="Moath Hazeem banner" width="100%" />
@@ -5,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Moath+Hazeem+%F0%9F%91%8B;MIS+%7C+Full-Stack+%26+Mobile+%7C+AI+Agents+%7C+ERP%2FOdoo+%7C+UI%2FUX;Systems+Analysis+%26+Decision+Support+Systems;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Moath+Hazeem+%F0%9F%91%8B;MIS+%7C+Full-Stack+%26+Mobile+%7C+AI+Agents+%7C+ERP%2FOdoo+%7C+UI%2FUX;Systems+Analysis+%26+Decision+Support+Systems;Software+QA+%7C+API+Testing+%7C+Code+Quality;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,9 +23,9 @@
 
 I work in **Management Information Systems (MIS)**, at the intersection of **business and technology**. I apply **Systems Analysis and Design** in university projects — understanding business requirements, analyzing processes, and translating needs into practical system designs — and I'm bringing the same approach into my upcoming personal projects.
 
-My work combines **software development, AI-powered workflows, enterprise systems, and user-centered design**. I build applications, connect services, automate workflows, and explore technology-driven ways to support business operations and decision-making.
+My work combines **software development, AI-powered workflows, enterprise systems, software quality assurance, and user-centered design**. I build applications, connect services, automate workflows, test APIs, analyze code quality, and explore technology-driven ways to support business operations and decision-making.
 
-> 🎯 **Current direction:** Systems Analysis · Full-Stack Development · AI Agents · ERP/Odoo · Decision Support Systems (DSS)
+> 🎯 **Current direction:** Systems Analysis · Full-Stack Development · Software QA · AI Agents · ERP/Odoo · Decision Support Systems (DSS)
 
 ---
 
@@ -101,14 +102,40 @@ My work combines **software development, AI-powered workflows, enterprise system
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps, Testing & PM
+### 🧪 Software QA & Testing
+- Software Quality Assurance (QA) fundamentals
+- API testing with **Postman** & **Bruno**
+- API request validation & response inspection
+- Code quality analysis with **SonarQube**
+- Identifying potential code issues and quality problems
+- API integration & testing concepts
+- Software testing and quality improvement
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Project Management
 - Git & GitHub
 - Docker & containerization
 - GitHub Actions & CI/CD
-- API integration & testing concepts
-- Software QA fundamentals
 - Jira for project & task management
 - Agile-oriented workflow tracking
+- Development workflow organization
+- Collaboration and version control
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Integration & Business Tools
+- REST APIs & external service integration
+- **Supabase** for backend and database functionality
+- **Odoo** for ERP workflows
+- **n8n** for workflow automation
+- **Miro** for systems analysis and process modeling
+- **Notion** for organizing information and workflows
+- Connecting technical solutions to business needs
 
 </td>
 </tr>
@@ -162,6 +189,12 @@ My work combines **software development, AI-powered workflows, enterprise system
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+**QA & Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 **DevOps & Project Management**
 
@@ -312,6 +345,12 @@ Management Information Systems (MIS)
 │   ├── Decision Support Systems
 │   └── Data Analysis
 │
+├── 🧪 Software Quality Assurance
+│   ├── QA Fundamentals
+│   ├── API Testing: Postman & Bruno
+│   ├── Code Quality Analysis: SonarQube
+│   └── API Validation
+│
 └── 🚀 Product & Project Delivery
     ├── UI/UX, Figma & Canva
     ├── Jira
@@ -332,6 +371,7 @@ Management Information Systems (MIS)
 | 🧠 **Decision Support Systems** | Structured analysis & recommendation workflows |
 | 📈 **Data Analysis & BI** | Analytical skills for business decision-making |
 | 💻 **Full-Stack Development** | Application architecture, backend development, database design |
+| 🧪 **Software QA & Testing** | QA fundamentals, API testing with Postman and Bruno, code quality analysis with SonarQube |
 | 🗂️ **Project Management** | Jira-based task organization & progress tracking |
 
 ---
