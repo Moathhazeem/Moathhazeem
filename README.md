@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Moath+Hazeem+%F0%9F%91%8B;MIS+%7C+Full-Stack+%26+Mobile+%7C+AI+Agents+%7C+ERP%2FOdoo+%7C+UI%2FUX;Systems+Analysis+%26+Decision+Support+Systems;Software+QA+%7C+API+Testing+%7C+Code+Quality;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Moath+Hazeem+%F0%9F%91%8B;MIS+%7C+Full-Stack+%26+Mobile+%7C+AI+Agents+%7C+ERP%2FOdoo;Systems+Analysis+%26+Decision+Support+Systems;Software+QA+%7C+API+Testing+%7C+Code+Quality;UI%2FUX+Design+%7C+Project+Management;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 I work in **Management Information Systems (MIS)**, at the intersection of **business and technology**. I apply **Systems Analysis and Design** in university projects — understanding business requirements, analyzing processes, and translating needs into practical system designs — and I'm bringing the same approach into my upcoming personal projects.
 
-My work combines **software development, AI-powered workflows, enterprise systems, software quality assurance, and user-centered design**. I build applications, connect services, automate workflows, test APIs, analyze code quality, and explore technology-driven ways to support business operations and decision-making.
+My work combines **software development, AI-powered workflows, enterprise systems, software quality assurance, project management, and user-centered design**. I build applications, connect services, automate workflows, test APIs, analyze code quality, and explore technology-driven ways to support business operations and decision-making.
 
-> 🎯 **Current direction:** Systems Analysis · Full-Stack Development · Software QA · AI Agents · ERP/Odoo · Decision Support Systems (DSS)
+> 🎯 **Current direction:** Systems Analysis · Full-Stack Development · ERP/Odoo · AI Agents · Software QA · UI/UX · Project Management · Decision Support Systems (DSS)
 
 ---
 
@@ -36,6 +36,7 @@ My work combines **software development, AI-powered workflows, enterprise system
 <td width="50%" valign="top">
 
 ### 📊 MIS, Systems Analysis & DSS
+
 - Management Information Systems
 - Systems Analysis & Design
 - Business Requirements Analysis
@@ -48,8 +49,9 @@ My work combines **software development, AI-powered workflows, enterprise system
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack & Mobile
-- Web apps with **React** & **Next.js**
+### 💻 Software Development
+
+- Web applications with **React** & **Next.js**
 - Type-safe development with **TypeScript**
 - REST APIs with **Node.js**, **Express.js**, **NestJS**
 - **MongoDB**, **PostgreSQL**, **Redis**, **Supabase**
@@ -57,7 +59,6 @@ My work combines **software development, AI-powered workflows, enterprise system
 - Frontend ↔ backend integration
 - Cross-platform apps with **Flutter** & **Dart**
 - Mobile development with **Kotlin**
-- Turning UI/UX designs into functional interfaces
 
 </td>
 </tr>
@@ -65,6 +66,7 @@ My work combines **software development, AI-powered workflows, enterprise system
 <td width="50%" valign="top">
 
 ### 🤖 AI Agents & Automation
+
 - AI agent workflows with **n8n**
 - LLM integration in practical applications
 - Tool calling & conditional tool selection
@@ -77,9 +79,10 @@ My work combines **software development, AI-powered workflows, enterprise system
 <td width="50%" valign="top">
 
 ### 🏢 ERP, Odoo & Business Systems
+
 - ERP concepts & business processes through **Odoo**
 - Inventory, products, categories & stock management
-- How operations connect across ERP modules
+- Understanding connections across ERP modules
 - Odoo integrations with n8n & AI agents
 - Connecting business requirements to system workflows
 - ERP implementation, configuration & analysis
@@ -90,52 +93,54 @@ My work combines **software development, AI-powered workflows, enterprise system
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX & Design
-- UI/UX design & implementation
-- **Figma** & design-to-code workflows
-- Visual design with **Canva**
-- Responsive & component-based UI
-- Arabic/English internationalization
-- Right-to-left (RTL) interface support
-- User-centered digital product design
+### 🧪 Software Quality Assurance (QA)
+
+- Software Quality Assurance fundamentals
+- API testing with **Postman** & **Bruno**
+- API request validation & response inspection
+- Code quality analysis with **SonarQube**
+- Identifying potential code quality issues
+- API integration & testing concepts
+- Software testing & quality improvement
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Software QA & Testing
-- Software Quality Assurance (QA) fundamentals
-- API testing with **Postman** & **Bruno**
-- API request validation & response inspection
-- Code quality analysis with **SonarQube**
-- Identifying potential code issues and quality problems
-- API integration & testing concepts
-- Software testing and quality improvement
+### 🎨 UI/UX & Product Design
+
+- UI/UX design & implementation
+- **Figma** & design-to-code workflows
+- Visual design with **Canva**
+- Responsive & component-based interfaces
+- Arabic/English internationalization
+- Right-to-left (RTL) interface support
+- User-centered digital product design
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Project Management
-- Git & GitHub
-- Docker & containerization
-- GitHub Actions & CI/CD
-- Jira for project & task management
-- Agile-oriented workflow tracking
-- Development workflow organization
-- Collaboration and version control
+### 📋 Project Management
+
+- Project & task management with **Jira**
+- Task organization & progress tracking
+- Agile-oriented workflow management
+- Breaking projects into manageable tasks
+- Tracking development progress
+- Organizing project workflows and deliverables
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 Integration & Business Tools
-- REST APIs & external service integration
-- **Supabase** for backend and database functionality
-- **Odoo** for ERP workflows
-- **n8n** for workflow automation
-- **Miro** for systems analysis and process modeling
-- **Notion** for organizing information and workflows
-- Connecting technical solutions to business needs
+### ⚙️ DevOps & Development Tools
+
+- Git & GitHub
+- Docker & containerization
+- GitHub Actions & CI/CD fundamentals
+- Version control & collaborative workflows
+- Development workflow organization
+- Deployment concepts & automation
 
 </td>
 </tr>
@@ -145,7 +150,7 @@ My work combines **software development, AI-powered workflows, enterprise system
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -156,13 +161,13 @@ My work combines **software development, AI-powered workflows, enterprise system
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 
-**Mobile**
+### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Backend & Databases**
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -172,7 +177,7 @@ My work combines **software development, AI-powered workflows, enterprise system
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**AI & Automation**
+### AI & Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -180,29 +185,33 @@ My work combines **software development, AI-powered workflows, enterprise system
 ![Google Trends](https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-**ERP & Business Systems**
+### ERP & Business Systems
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
-**UI/UX & Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-**QA & Testing**
+### Software QA & Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-**DevOps & Project Management**
+### UI/UX & Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### DevOps & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -251,12 +260,12 @@ A full-stack mobile application combining a Flutter frontend with a Node.js back
 
 `Odoo` `ERP` `Inventory` `Product Catalog`
 
-A practical ERP project focused on organizing product data and exploring inventory workflows for an electronics retailer in Odoo.
+A practical ERP project focused on organizing product data and exploring inventory workflows for an electronics retailer in Palestine.
 
 - Products & product categories structure
 - Catalog organization
 - Stock management & inventory workflows
-- How ERP supports retail operations
+- Understanding how ERP supports retail operations
 - Exploring Odoo + n8n integration
 
 </td>
@@ -320,42 +329,49 @@ A workflow concept for researching, evaluating, and organizing content ideas.
 ```text
 Management Information Systems (MIS)
 │
-├── 💻 Software Development
-│   ├── React / Next.js / TypeScript
-│   ├── Node.js / Express / NestJS
-│   ├── MongoDB / PostgreSQL / Redis / Supabase
-│   └── Flutter / Dart / Kotlin
+├── 📊 Business & Systems Analysis
+│   ├── Systems Analysis & Design
+│   ├── Business Requirements Analysis
+│   ├── Requirements Gathering & Process Modeling
+│   ├── Business Process Analysis
+│   ├── Decision Support Systems (DSS)
+│   └── Data Analysis & BI
 │
-├── 🤖 AI & Automation
-│   ├── n8n Workflows
-│   ├── AI Agents
-│   ├── LLM Integration
-│   └── Tool Calling
+├── 💻 Software Development
+│   ├── Frontend: React / Next.js / TypeScript
+│   ├── Backend: Node.js / Express.js / NestJS
+│   ├── Databases: MongoDB / PostgreSQL / Redis / Supabase
+│   └── Mobile: Flutter / Dart / Kotlin
 │
 ├── 🏢 ERP & Enterprise Systems
 │   ├── Odoo
 │   ├── Inventory Management
-│   ├── Business Processes
-│   ├── System Integration
-│   └── Miro
+│   ├── Business Workflows
+│   └── System Integration
 │
-├── 📊 Systems & Decision Analysis
-│   ├── Systems Analysis & Design
-│   ├── Business Requirements
-│   ├── Decision Support Systems
-│   └── Data Analysis
+├── 🤖 AI Agents & Automation
+│   ├── AI Agents & LLMs
+│   ├── n8n Workflows
+│   ├── Tool Calling
+│   └── API Integrations
 │
 ├── 🧪 Software Quality Assurance
 │   ├── QA Fundamentals
-│   ├── API Testing: Postman & Bruno
+│   ├── API Testing: Postman / Bruno
 │   ├── Code Quality Analysis: SonarQube
 │   └── API Validation
 │
-└── 🚀 Product & Project Delivery
-    ├── UI/UX, Figma & Canva
-    ├── Jira
-    ├── Git / GitHub
-    └── Docker / CI/CD
+├── 🎨 UI/UX & Product Design
+│   ├── Figma
+│   ├── User-Centered Design
+│   ├── Interface Design & Prototyping
+│   └── Design-to-Code Implementation
+│
+└── 📋 Project Management & DevOps
+    ├── Project & Task Management: Jira
+    ├── Version Control: Git / GitHub
+    ├── Containerization: Docker
+    └── CI/CD: GitHub Actions
 ```
 
 ---
@@ -372,7 +388,8 @@ Management Information Systems (MIS)
 | 📈 **Data Analysis & BI** | Analytical skills for business decision-making |
 | 💻 **Full-Stack Development** | Application architecture, backend development, database design |
 | 🧪 **Software QA & Testing** | QA fundamentals, API testing with Postman and Bruno, code quality analysis with SonarQube |
-| 🗂️ **Project Management** | Jira-based task organization & progress tracking |
+| 🎨 **UI/UX Design** | User-centered design, Figma, prototyping, design-to-code workflows |
+| 📋 **Project Management** | Jira, task organization, workflow tracking, Agile fundamentals |
 
 ---
 
