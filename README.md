@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Moath%20Hazeem&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=MIS%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20AI%20Agents%20%26%20Automation%20%7C%20ERP%2FOdoo%20%7C%20UI%2FUX&descSize=16&descAlignY=60&animation=fadeIn" alt="Moath Hazeem banner" width="100%" />
+  <img src="banner.svg" alt="Moath Hazeem banner" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/moath-hazeem-865412390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/moathhazeem"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://dribbble.com/moath-hazeem"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Moathhazeem&label=Profile%20views&color=2C5364&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Moathhazeem?tab=followers"><img src="https://img.shields.io/github/followers/Moathhazeem?style=for-the-badge&logo=github&label=Followers&color=2C5364" alt="GitHub followers" /></a>
 </p>
 
 ---
@@ -356,5 +356,5 @@ Management Information Systems (MIS)
 <p align="center"><b>⚡ Building at the Intersection of Technology, Business, and Automation.</b></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" width="100%" />
+  <img src="footer.svg" alt="footer" width="100%" />
 </p>
