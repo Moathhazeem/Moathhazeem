@@ -1,11 +1,11 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Moath%20Hazeem&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=MIS%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Automation%20%C2%B7%20ERP%2FOdoo%20%C2%B7%20UI%2FUX&descSize=18&descAlignY=60&animation=fadeIn" alt="Moath Hazeem banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Moath%20Hazeem&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=MIS%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20AI%20Agents%20%26%20Automation%20%7C%20ERP%2FOdoo%20%7C%20UI%2FUX&descSize=16&descAlignY=60&animation=fadeIn" alt="Moath Hazeem banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Moath+%F0%9F%91%8B;MIS+Student+%26+Systems+Analyst;Full-Stack+%26+Mobile+Developer;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Moath+Hazeem+%F0%9F%91%8B;MIS+%7C+Full-Stack+%26+Mobile+%7C+AI+Agents+%7C+ERP%2FOdoo+%7C+UI%2FUX;Systems+Analysis+%26+Decision+Support+Systems;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Management Information Systems (MIS)** student who sits at the intersection of **business and technology**. I apply **Systems Analysis and Design** in university projects — understanding business requirements, analyzing processes, and translating needs into practical system designs — and I'm bringing the same approach into my upcoming personal projects.
+I work in **Management Information Systems (MIS)**, at the intersection of **business and technology**. I apply **Systems Analysis and Design** in university projects — understanding business requirements, analyzing processes, and translating needs into practical system designs — and I'm bringing the same approach into my upcoming personal projects.
 
 My work combines **software development, AI-powered workflows, enterprise systems, and user-centered design**. I build applications, connect services, automate workflows, and explore technology-driven ways to support business operations and decision-making.
 
@@ -80,15 +80,17 @@ My work combines **software development, AI-powered workflows, enterprise system
 - Odoo integrations with n8n & AI agents
 - Connecting business requirements to system workflows
 - ERP implementation, configuration & analysis
+- Process & system flow mapping with **Miro**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX & Product Design
+### 🎨 UI/UX & Design
 - UI/UX design & implementation
-- Figma & design-to-code workflows
+- **Figma** & design-to-code workflows
+- Visual design with **Canva**
 - Responsive & component-based UI
 - Arabic/English internationalization
 - Right-to-left (RTL) interface support
@@ -150,10 +152,12 @@ My work combines **software development, AI-powered workflows, enterprise system
 **ERP & Business Systems**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
-**Design**
+**UI/UX & Design**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 **DevOps & Project Management**
 
@@ -295,7 +299,8 @@ Management Information Systems (MIS)
 │   ├── Odoo
 │   ├── Inventory Management
 │   ├── Business Processes
-│   └── System Integration
+│   ├── System Integration
+│   └── Miro
 │
 ├── 📊 Systems & Decision Analysis
 │   ├── Systems Analysis & Design
@@ -304,7 +309,7 @@ Management Information Systems (MIS)
 │   └── Data Analysis
 │
 └── 🚀 Product & Project Delivery
-    ├── UI/UX & Figma
+    ├── UI/UX, Figma & Canva
     ├── Jira
     ├── Git / GitHub
     └── Docker / CI/CD
