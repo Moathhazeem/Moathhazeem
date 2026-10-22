@@ -1,208 +1,355 @@
-Hi, I'm Moath Hazeem 👋
-MIS | Full-Stack & Mobile Developer | AI Automation & Agents | ERP/Odoo | UI/UX
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Moath%20Hazeem&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=MIS%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Automation%20%C2%B7%20ERP%2FOdoo%20%C2%B7%20UI%2FUX&descSize=18&descAlignY=60&animation=fadeIn" alt="Moath Hazeem banner" width="100%" />
+</p>
 
-I work with Systems Analysis and Design, applying it in university projects and planning to use it in upcoming personal projects. This includes understanding business requirements, analyzing processes, and translating needs into practical system designs.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Moath+%F0%9F%91%8B;MIS+Student+%26+Systems+Analyst;Full-Stack+%26+Mobile+Developer;Building+AI+Agents+%26+Automated+Workflows;Connecting+Business+Needs+to+Technical+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-My work also combines software development, AI-powered workflows, enterprise systems, and user-centered design. I build applications, connect services, automate workflows, and explore technology-driven ways to support business operations and decision-making.
+<p align="center">
+  <a href="https://www.linkedin.com/in/moath-hazeem-865412390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/moathhazeem"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://dribbble.com/moath-hazeem"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Moathhazeem&label=Profile%20views&color=2C5364&style=for-the-badge" alt="Profile views" />
+</p>
 
-My current direction combines Systems Analysis, Full-Stack Development, AI Agents, ERP/Odoo, and Decision Support Systems (DSS).
-🚀 What I Work With
-📊 MIS, Systems Analysis & Decision Support
-- Management Information Systems (MIS)
-- Systems Analysis and Design, applied in university projects and planned for upcoming personal projects
+---
+
+## 👨‍💻 About Me
+
+I'm a **Management Information Systems (MIS)** student who sits at the intersection of **business and technology**. I apply **Systems Analysis and Design** in university projects — understanding business requirements, analyzing processes, and translating needs into practical system designs — and I'm bringing the same approach into my upcoming personal projects.
+
+My work combines **software development, AI-powered workflows, enterprise systems, and user-centered design**. I build applications, connect services, automate workflows, and explore technology-driven ways to support business operations and decision-making.
+
+> 🎯 **Current direction:** Systems Analysis · Full-Stack Development · AI Agents · ERP/Odoo · Decision Support Systems (DSS)
+
+---
+
+## 🚀 What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 MIS, Systems Analysis & DSS
+- Management Information Systems
+- Systems Analysis & Design
 - Business Requirements Analysis
-- Requirements gathering and process modeling
+- Requirements Gathering & Process Modeling
 - Business Process Analysis
 - Decision Support Systems (DSS)
-- Data Analysis and Business Intelligence concepts
-- Technology-driven business process improvement
-💻 Full-Stack & Mobile Development
-- Building web applications with React and Next.js
-- Developing backend services and REST APIs with Node.js, Express.js, and NestJS
-- Working with MongoDB, PostgreSQL, and Redis
-- Using Supabase for basic backend and database tasks
-- Implementing authentication and user-management flows
-- Integrating frontend applications with backend services
-- Building cross-platform mobile applications with Flutter and Dart
-- Translating UI/UX designs into functional interfaces
-🤖 AI Agents & Workflow Automation
-- Building AI agent workflows with n8n
-- Integrating LLMs into practical applications
-- Implementing tool calling and conditional tool selection
-- Designing automated workflows with branching logic
-- Integrating REST APIs and external services
-- Automating data processing, research, and analysis
-- Exploring AI-powered decision support and recommendation systems
-🏢 ERP, Odoo & Business Systems
-- Exploring ERP concepts and business processes through Odoo
-- Working with inventory, products, categories, and stock management
-- Understanding how business operations connect across ERP modules
-- Exploring Odoo integrations with n8n and AI agents
-- Connecting business requirements with practical system workflows
-- Developing knowledge in ERP implementation, configuration, and system analysis
-🎨 UI/UX & Product Design
-- UI/UX design and implementation
-- Figma and design-to-code workflows
-- Responsive interface design
-- Component-based UI development
+- Data Analysis & BI concepts
+- Technology-driven process improvement
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack & Mobile
+- Web apps with **React** & **Next.js**
+- REST APIs with **Node.js**, **Express.js**, **NestJS**
+- **MongoDB**, **PostgreSQL**, **Redis**, **Supabase**
+- Authentication & user-management flows
+- Frontend ↔ backend integration
+- Cross-platform apps with **Flutter** & **Dart**
+- Turning UI/UX designs into functional interfaces
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents & Automation
+- AI agent workflows with **n8n**
+- LLM integration in practical applications
+- Tool calling & conditional tool selection
+- Automated workflows with branching logic
+- REST API & external service integration
+- Automating data processing, research & analysis
+- AI-powered decision support & recommendations
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 ERP, Odoo & Business Systems
+- ERP concepts & business processes through **Odoo**
+- Inventory, products, categories & stock management
+- How operations connect across ERP modules
+- Odoo integrations with n8n & AI agents
+- Connecting business requirements to system workflows
+- ERP implementation, configuration & analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX & Product Design
+- UI/UX design & implementation
+- Figma & design-to-code workflows
+- Responsive & component-based UI
 - Arabic/English internationalization
 - Right-to-left (RTL) interface support
 - User-centered digital product design
-⚙️ DevOps, Testing & Project Management
-- Git and GitHub
-- Docker and containerization
-- GitHub Actions and CI/CD workflows
-- API integration and testing concepts
-- Software quality assurance fundamentals
-- Jira for project and task management
-- Agile-oriented project organization and workflow tracking
-🛠️ Tech Stack
-Frontend
 
+</td>
+<td width="50%" valign="top">
 
+### ⚙️ DevOps, Testing & PM
+- Git & GitHub
+- Docker & containerization
+- GitHub Actions & CI/CD
+- API integration & testing concepts
+- Software QA fundamentals
+- Jira for project & task management
+- Agile-oriented workflow tracking
 
+</td>
+</tr>
+</table>
 
+---
 
+## 🛠️ Tech Stack
 
-Mobile Development
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 
-Backend & Databases
+**Mobile**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+**Backend & Databases**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+**AI & Automation**
 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Trends](https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+**ERP & Business Systems**
 
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
-AI & Automation
+**Design**
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+**DevOps & Project Management**
 
-ERP & Business Systems
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 
-DevOps & Project Management
+## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🎓 Learnova
+**E-Learning Platform**
 
-
-
-📌 Featured Projects
-🎓 Learnova — E-Learning Platform
-React · JavaScript · Vite · CSS3 · i18next · Figma
+`React` `JavaScript` `Vite` `CSS3` `i18next` `Figma`
 
 A modern e-learning platform focused on responsive interfaces, internationalization, and user experience.
+
 - Component-based React architecture
 - Responsive interface implementation
-- Arabic/English internationalization
-- RTL support
-- Authentication UI flows
-- Theme support
+- Arabic/English i18n with **RTL** support
+- Authentication UI flows & theme support
 - Figma-to-React implementation
-📱 Lughati — Language Learning Application
-Flutter · Dart · Node.js · Express.js · MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Lughati
+**Language Learning App**
+
+`Flutter` `Dart` `Node.js` `Express.js` `MongoDB`
 
 A full-stack mobile application combining a Flutter frontend with a Node.js backend.
+
 - Cross-platform mobile development
-- REST API development and integration
+- REST API development & integration
 - MongoDB database integration
-- Authentication and user-management flows
-- Backend and frontend communication
-- Git and GitHub workflow
-🏢 iHouse — ERP Inventory Management
-Odoo · ERP · Inventory Management · Product Catalog
+- Authentication & user-management flows
+- Git & GitHub workflow
 
-A practical ERP inventory project based on iHouse, focused on organizing product data and exploring inventory management workflows in Odoo.
-- Organizing products and product categories
-- Structuring inventory data for an electronics retailer
-- Working with product information and catalog organization
-- Exploring stock management and inventory workflows
-- Understanding how ERP supports retail operations
-- Exploring opportunities for Odoo and n8n integration
-🤖 Review Ideas — AI Agent for Idea Evaluation
-n8n · AI Agents · LLMs · Tool Calling · Prompt Engineering
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered workflow designed to evaluate business, startup, and project ideas.
+### 🏢 iHouse
+**ERP Inventory Management**
+
+`Odoo` `ERP` `Inventory` `Product Catalog`
+
+A practical ERP project focused on organizing product data and exploring inventory workflows for an electronics retailer in Odoo.
+
+- Products & product categories structure
+- Catalog organization
+- Stock management & inventory workflows
+- How ERP supports retail operations
+- Exploring Odoo + n8n integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Review Ideas
+**AI Agent for Idea Evaluation**
+
+`n8n` `AI Agents` `LLMs` `Tool Calling` `Prompt Engineering`
+
+An AI-powered workflow that evaluates business, startup, and project ideas.
+
 - Structured idea analysis
 - LLM-based evaluation
-- Tool-based research and analysis
+- Tool-based research & analysis
 - Conditional tool selection
 - Automated decision-support feedback
-- Workflow logic that determines when additional tools may be needed
-🧠 Automated Decision Support System
-n8n · LLMs · REST APIs · AI Automation
 
-An AI-powered workflow concept for processing decision-related information and generating structured recommendations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Automated Decision Support System
+**AI Workflow Concept**
+
+`n8n` `LLMs` `REST APIs` `AI Automation`
+
+A workflow concept for processing decision-related information and generating structured recommendations.
+
 - Automated data processing
 - Decision-parameter classification
-- AI-assisted analysis
-- Recommendation generation
+- AI-assisted analysis & recommendations
 - REST API integrations
 - Automated notifications
-📊 AI Content Idea Evaluator
-n8n · LLMs · Google Trends · Notion · APIs
 
-An automation workflow concept for researching, evaluating, and organizing content ideas.
+</td>
+<td width="50%" valign="top">
+
+### 📊 AI Content Idea Evaluator
+**Automation Workflow Concept**
+
+`n8n` `LLMs` `Google Trends` `Notion` `APIs`
+
+A workflow concept for researching, evaluating, and organizing content ideas.
+
 - AI-assisted content evaluation
-- Trend research and discovery
-- Google Trends integration
-- Structured data organization in Notion
+- Trend research with Google Trends
+- Structured organization in Notion
 - Publishing-time analysis
-- External API integrations
 - Automated content research workflows
-🧩 How MIS Connects My Technical Skills
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 How MIS Connects My Technical Skills
+
+```text
 Management Information Systems (MIS)
 │
-├── Software Development
+├── 💻 Software Development
 │   ├── React / Next.js
 │   ├── Node.js / Express / NestJS
 │   ├── MongoDB / PostgreSQL / Redis / Supabase
 │   └── Flutter / Dart
 │
-├── AI & Automation
+├── 🤖 AI & Automation
 │   ├── n8n Workflows
 │   ├── AI Agents
 │   ├── LLM Integration
 │   └── Tool Calling
 │
-├── ERP & Enterprise Systems
+├── 🏢 ERP & Enterprise Systems
 │   ├── Odoo
 │   ├── Inventory Management
 │   ├── Business Processes
 │   └── System Integration
 │
-├── Systems & Decision Analysis
+├── 📊 Systems & Decision Analysis
 │   ├── Systems Analysis & Design
 │   ├── Business Requirements
 │   ├── Decision Support Systems
 │   └── Data Analysis
 │
-└── Product & Project Delivery
+└── 🚀 Product & Project Delivery
     ├── UI/UX & Figma
     ├── Jira
     ├── Git / GitHub
     └── Docker / CI/CD
-📚 Currently Developing
-- ERP & Odoo: Enterprise workflows, inventory processes, and system integrations
-- AI Agents & Automation: Tool calling, conditional logic, and AI-powered workflows
-- Systems Analysis & Design: Requirements gathering, process modeling, and system design
-- Business Analysis: Connecting business needs to technical solutions
-- Decision Support Systems: Structured analysis and recommendation workflows
-- Data Analysis & BI: Analytical skills for business decision-making
-- Full-Stack Development: Application architecture, backend development, and database design
-- Project Management: Jira-based task organization and progress tracking
-📊 GitHub Stats
+```
+
+---
+
+## 📚 Currently Developing
+
+| Area | Focus |
+|---|---|
+| 🏢 **ERP & Odoo** | Enterprise workflows, inventory processes, system integrations |
+| 🤖 **AI Agents & Automation** | Tool calling, conditional logic, AI-powered workflows |
+| 📐 **Systems Analysis & Design** | Requirements gathering, process modeling, system design |
+| 💼 **Business Analysis** | Connecting business needs to technical solutions |
+| 🧠 **Decision Support Systems** | Structured analysis & recommendation workflows |
+| 📈 **Data Analysis & BI** | Analytical skills for business decision-making |
+| 💻 **Full-Stack Development** | Application architecture, backend development, database design |
+| 🗂️ **Project Management** | Jira-based task organization & progress tracking |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moathhazeem&theme=dark&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moathhazeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moathhazeem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-📫 Connect With Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moathhazeem&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/moath-hazeem-865412390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/moathhazeem"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://dribbble.com/moath-hazeem"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 </p>
 
-<p align="center"><b>Building at the Intersection of Technology, Business, and Automation.</b></p>
+<p align="center"><b>⚡ Building at the Intersection of Technology, Business, and Automation.</b></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer" width="100%" />
+</p>
