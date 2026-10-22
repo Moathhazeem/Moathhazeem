@@ -1,212 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Moath Hazeem - MIS, Full-Stack and Mobile, AI Agents and Automation, ERP/Odoo, UI/UX">  
+  <defs>  
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">  
+      <stop offset="0%" stop-color="#0F2027"/>  
+      <stop offset="50%" stop-color="#203A43"/>  
+      <stop offset="100%" stop-color="#2C5364"/>  
+    </linearGradient>  
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">  
+      <stop offset="0%" stop-color="#ffffff"/>  
+      <stop offset="100%" stop-color="#bfeaff"/>  
+    </linearGradient>  
+  </defs>  
+  <style>  
+    text { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }  
+    .f { opacity: 0; animation: fade 0.9s ease forwards; }  
+    .d1 { animation-delay: 0.1s; }  
+    .d2 { animation-delay: 0.35s; }  
+    .d3 { animation-delay: 0.6s; }  
+    .d4 { animation-delay: 0.9s; }  
+    .orb { animation: float 7s ease-in-out infinite; }  
+    .orb2 { animation: float 9s ease-in-out infinite reverse; }  
+    @keyframes fade { to { opacity: 1; } }  
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }  
+  </style>    <rect width="1000" height="260" rx="16" fill="url(#bg)"/>    <!-- decorative orbs -->    <circle class="orb" cx="90" cy="60" r="70" fill="#4FC3F7" opacity="0.10"/>  
+  <circle class="orb2" cx="920" cy="210" r="90" fill="#4FC3F7" opacity="0.08"/>  
+  <circle class="orb" cx="840" cy="40" r="28" fill="#ffffff" opacity="0.06"/>    <!-- greeting + name -->  <text class="f d1" x="500" y="58" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="5" fill="#4FC3F7">HI, I'M</text>
+<text class="f d2" x="500" y="122" text-anchor="middle" font-size="58" font-weight="800" fill="url(#name)">Moath Hazeem</text>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1000 340"
-     width="1000"
-     height="340"
-     role="img"
-     aria-label="Moath Hazeem - MIS, Full-Stack and Mobile, AI Automation, ERP, UI/UX, System Analysis, QA and Project Management">
+  <!-- specialty chips -->    <g class="f d3" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">  
+    <rect x="140" y="152" width="60" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>  
+    <text x="170" y="176">MIS</text>  <rect x="214" y="152" width="188" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>  
+<text x="308" y="176">Full-Stack &amp; Mobile</text>  
 
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0F2027"/>
-      <stop offset="50%" stop-color="#203A43"/>
-      <stop offset="100%" stop-color="#2C5364"/>
-    </linearGradient>
+<rect x="416" y="152" width="212" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>  
+<text x="522" y="176">AI Agents &amp; Automation</text>  
 
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#bfeaff"/>
-    </linearGradient>
+<rect x="642" y="152" width="114" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>  
+<text x="699" y="176">ERP / Odoo</text>  
 
-    <style>
-      text {
-        font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+<rect x="770" y="152" width="89" height="38" rx="19" fill="#ffffff" fill-opacity="0.10" stroke="#4FC3F7" stroke-opacity="0.6"/>  
+<text x="814.5" y="176">UI / UX</text>
 
-      .fade {
-        opacity: 0;
-        animation: fadeIn 1s ease forwards;
-      }
-
-      .name {
-        animation-delay: 0.3s;
-      }
-
-      .tagline {
-        animation-delay: 0.6s;
-      }
-
-      .orb {
-        animation: float 7s ease-in-out infinite;
-      }
-
-      .orb2 {
-        animation: float 9s ease-in-out infinite reverse;
-      }
-
-      .chip {
-        opacity: 0;
-        animation: showGroup 12s infinite;
-      }
-
-      .group1 { animation-delay: 0s; }
-      .group2 { animation-delay: 4s; }
-      .group3 { animation-delay: 8s; }
-
-      @keyframes fadeIn {
-        to { opacity: 1; }
-      }
-
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
-
-      @keyframes showGroup {
-        0%, 5% {
-          opacity: 0;
-          transform: translateY(8px);
-        }
-
-        10%, 28% {
-          opacity: 1;
-          transform: translateY(0);
-        }
-
-        33%, 100% {
-          opacity: 0;
-          transform: translateY(-8px);
-        }
-      }
-    </style>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1000" height="340" rx="16" fill="url(#bg)"/>
-
-  <!-- Decorative circles -->
-  <circle class="orb" cx="65" cy="65" r="65"
-          fill="#4FC3F7" opacity="0.10"/>
-
-  <circle class="orb2" cx="940" cy="270" r="85"
-          fill="#4FC3F7" opacity="0.08"/>
-
-  <circle class="orb" cx="875" cy="45" r="25"
-          fill="#ffffff" opacity="0.06"/>
-
-  <!-- Intro -->
-  <text class="fade"
-        x="500" y="42"
-        text-anchor="middle"
-        font-size="14"
-        font-weight="600"
-        letter-spacing="5"
-        fill="#4FC3F7">
-    HI, I'M
-  </text>
-
-  <!-- Name -->
-  <text class="fade name"
-        x="500" y="100"
-        text-anchor="middle"
-        font-size="48"
-        font-weight="800"
-        fill="url(#name)">
-    Moath Hazeem
-  </text>
-
-  <!-- Group 1 -->
-  <g class="chip group1"
-     font-size="13"
-     font-weight="600"
-     fill="#ffffff"
-     text-anchor="middle">
-
-    <rect x="70" y="132" width="250" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="195" y="157">MIS &amp; Systems Analysis</text>
-
-    <rect x="335" y="132" width="300" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="485" y="157">Full-Stack &amp; Mobile Development</text>
-
-    <rect x="650" y="132" width="280" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="790" y="157">AI Agents &amp; Automation</text>
-  </g>
-
-  <!-- Group 2 -->
-  <g class="chip group2"
-     font-size="13"
-     font-weight="600"
-     fill="#ffffff"
-     text-anchor="middle">
-
-    <rect x="70" y="132" width="250" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="195" y="157">ERP / Odoo</text>
-
-    <rect x="335" y="132" width="300" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="485" y="157">UI / UX Design</text>
-
-    <rect x="650" y="132" width="280" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="790" y="157">Software QA &amp; Testing</text>
-  </g>
-
-  <!-- Group 3 -->
-  <g class="chip group3"
-     font-size="13"
-     font-weight="600"
-     fill="#ffffff"
-     text-anchor="middle">
-
-    <rect x="70" y="132" width="250" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="195" y="157">Project Management</text>
-
-    <rect x="335" y="132" width="300" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="485" y="157">Supabase &amp; Databases</text>
-
-    <rect x="650" y="132" width="280" height="40" rx="20"
-          fill="#ffffff" fill-opacity="0.08"
-          stroke="#4FC3F7" stroke-opacity="0.65"/>
-
-    <text x="790" y="157">Business Analysis</text>
-  </g>
-
-  <!-- Tagline -->
-  <text class="fade tagline"
-        x="500" y="240"
-        text-anchor="middle"
-        font-size="13"
-        fill="#b7d3e0"
-        letter-spacing="0.4">
-    Building at the Intersection of Technology, Business, and Automation
-  </text>
-
-  <!-- Bottom line -->
-  <path d="M100 270 H900"
-        stroke="#4FC3F7"
-        stroke-opacity="0.25"
-        stroke-width="1"/>
-
+  </g>    <!-- tagline -->  <text class="f d4" x="500" y="238" text-anchor="middle" font-size="14" fill="#9fc3d6" letter-spacing="1">Building at the Intersection of Technology, Business, and Automation</text>
 </svg>
